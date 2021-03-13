@@ -21,3 +21,6 @@ git clone
 
 ## How to ignore files from git history
 Add a .gitignore file to your directory and list all the files and folders you want to be ignored in seperate lines.
+
+## Credits
+Hussain Afeef
